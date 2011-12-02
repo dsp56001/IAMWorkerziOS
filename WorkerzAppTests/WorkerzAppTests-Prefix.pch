@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'WorkerzAppTests' target in the 'WorkerzAppTests' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
